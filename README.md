@@ -105,7 +105,7 @@ The system was verified across active operational phases using visual LED cues a
 ---
 
 ## 📸 Project Demonstration
-<img src="circuit_img.png" width="500">
+<img src="Circuit_img.png" width="500">
 
 ---
 
