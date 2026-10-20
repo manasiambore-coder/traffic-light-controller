@@ -105,7 +105,7 @@ The system was verified across active operational phases using visual LED cues a
 ---
 
 ## 📸 Project Demonstration
-*(Add circuit diagram screenshots, Wokwi simulation captures, or breadboard hardware photos here)*
+<img src="circuit_img.png" width="500">
 
 ---
 
@@ -121,9 +121,8 @@ This project provided hands-on experience in implementing Finite State Machines 
 ---
 
 ## 📸 Project Demonstration
-
+<img src="img1.png" width="500">
+<img src="img2.png" width="500">
 
 ---
 
-## 🎥 Project Demo
-▶️ *(Insert link to project video or simulation recording here)*
